@@ -1,0 +1,14 @@
+{
+  "name": "shezlong",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Mohamed Helmy",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
